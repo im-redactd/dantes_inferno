@@ -1,5 +1,4 @@
-# dantes_inferno
-Dante's Inferno Badge
+# Dante's Inferno Badge
 On sale here: https://www.tindie.com/products/redactd/dantes-inferno-badge/
 
 # Coming Soon
