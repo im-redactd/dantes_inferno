@@ -1,5 +1,6 @@
 # dantes_inferno
 Dante's Inferno Badge
+On sale here: https://www.tindie.com/products/redactd/dantes-inferno-badge/
 
 # Coming Soon
 This repo will contain information about the badge and release any software updates as needed.
