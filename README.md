@@ -13,7 +13,7 @@ This repo will contain information about the badge and release any software upda
 New released binaries can be flashed over USB. 
  - Plug the badge in and power on,
  - Depending on your OS you'll need to determine which Serial port the badge has.
- - Open a serial connection the the badge's com port with a speed of #####1200#####, this will force the badge to reset into boot select mode.
+ - Open a serial connection the the badge's com port with a speed of **1200**, this will force the badge to reset into boot select mode.
  - Drag/drop the released uf2 firmware onto the drive and the badge will reboot the new code. 
 
 Pre Sale badges have acrylic and this option isn't possible without dissasembly. 
