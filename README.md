@@ -9,6 +9,12 @@ This repo will contain information about the badge and release any software upda
 # Help
 
 ### Flashing firmware
-New released binaries can be flashed over USB. Plug the badge in and power on, open a serial connection the the badge's com port with a speed of 1200, this will force the badge to reset into boot select mode. Drag/drop the new uf2 firmware onto the drive and the badge will reboot the new code. 
 
-If you have access, you can use a popsicle stick or other, preferabbly non conductive tool, to press the boot button while powering on the badge. This will mount the drive as well.
+New released binaries can be flashed over USB. 
+ - Plug the badge in and power on,
+ - Depending on your OS you'll need to determine which Serial port the badge has.
+ - Open a serial connection the the badge's com port with a speed of #####1200#####, this will force the badge to reset into boot select mode.
+ - Drag/drop the released uf2 firmware onto the drive and the badge will reboot the new code. 
+
+Pre Sale badges have acrylic and this option isn't possible without dissasembly. 
+You can use a popsicle stick or other, preferabbly non conductive tool, to press the boot button while powering on the badge. This will mount the drive as well.
